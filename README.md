@@ -1,24 +1,30 @@
 ### Hi, I'm Phil 👋
 
-<!--
-**phildecroos/phildecroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm a Mechatronics Engineering student at the University of Waterloo.
 
+I'm currently working on making videos for my projects so I can present them better on my website.
+
+My favourite projects you'll find here are:
+
 <ul>
-  <li> https://www.linkedin.com/in/philip-decroos/ </li>
+  <li> Lunar Lander Game: <a href="https://github.com/phildecroos/Lunar-Lander/blob/master/Lunar%20Lander%20Game.py">Here</a> </li>
+  <li> Arduino Timer: <a href="https://github.com/phildecroos/arduino_timer/blob/main/lcd_clock.ino">Here</a> </li>
+  <li> Reverse Pong: <a href="https://github.com/AdrianaCeric/Reverse-Pong">Here</a> </li>
+  <li> Portfolio Website: <a href="https://github.com/phildecroos/portfolio">Here</a> </li>
+</ul>
+
+Most of my mechanical/electrical projects don't show up here, but you can check them out here:
+
+<ul>
+  <li> https://phildecroos.github.io/portfolio/mechanical.html </li>
+</ul>
+
+You can connect with me here:
+
+<ul>
+  <li> ✉️ pdecroos@uwaterloo.ca </li>
+  <li> <a href="https://www.linkedin.com/in/philip-decroos/">🔗 LinkedIn</a> </li>
+  <li> <a href="https://phildecroos.github.io/portfolio/index.html">🌐 Website</a> </li>
 </ul>
 
 Testing 1, 2, 3
