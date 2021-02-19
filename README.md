@@ -19,6 +19,6 @@ I'm a Mechatronics Engineering student at the University of Waterloo.
 
 <ul>
   <li> https://www.linkedin.com/in/philip-decroos/ </li>
-<ul>
+</ul>
 
 Testing 1, 2, 3
