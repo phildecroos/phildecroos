@@ -22,11 +22,7 @@ My favourite projects you'll find here are:
   <li> Portfolio Website: <a href="https://github.com/phildecroos/portfolio">Here</a> </li>
 </ul>
 
-Most of my mechanical/electrical projects don't show up here, but you can check them out here:
-
-<ul>
-  <li> https://phildecroos.github.io/portfolio/mechanical.html </li>
-</ul>
+Most of my mechanical/electrical projects don't show up here, but you can check them out here: <a href="https://phildecroos.github.io/portfolio/mechanical.html">Mechanical</a>
 
 You can connect with me here:
 
