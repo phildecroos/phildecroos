@@ -31,5 +31,3 @@ You can connect with me here:
   <li> <a href="https://www.linkedin.com/in/philip-decroos/">🔗 LinkedIn</a> </li>
   <li> <a href="https://phildecroos.github.io/portfolio/index.html">🌐 Website</a> </li>
 </ul>
-
-Testing 1, 2, 3
