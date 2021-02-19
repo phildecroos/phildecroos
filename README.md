@@ -4,6 +4,15 @@ I'm a Mechatronics Engineering student at the University of Waterloo.
 
 I'm currently working on making videos for my projects so I can present them better on my website.
 
+I'm super passionate about:
+
+<ul>
+  <li>⚙️ Mechanical and electrical machines</li>
+  <li>💻 Programming (espeically for 🤖 robots or 🎮 video games)</li>
+  <li>🚀 Aerospace</li>
+  <li>🌐 Web Development</li>
+</ul>
+
 My favourite projects you'll find here are:
 
 <ul>
