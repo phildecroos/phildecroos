@@ -27,7 +27,7 @@ Most of my mechanical/electrical projects don't show up here, but you can check 
 You can connect with me here:
 
 <ul>
-  <li> ✉️ pdecroos@uwaterloo.ca </li>
+  <li> <a href="mailto:pdecroos@uwaterloo.ca">✉️ pdecroos@uwaterloo.ca</a> </li>
   <li> <a href="https://www.linkedin.com/in/philip-decroos/">🔗 LinkedIn</a> </li>
   <li> <a href="https://phildecroos.github.io/portfolio/index.html">🌐 Website</a> </li>
 </ul>
