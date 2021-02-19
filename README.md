@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Mechatronics Engineering student at the University of Waterloo.
+
 <ul>
-  <li> https://www.linkedin.com/in/philip-decroos/ <li>
+  <li> https://www.linkedin.com/in/philip-decroos/ </li>
 <ul>
 
+Testing 1, 2, 3
