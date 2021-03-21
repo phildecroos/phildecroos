@@ -8,6 +8,7 @@ I'm super passionate about:
 
 <ul>
   <li>⚙️ Mechanical and electrical machines</li>
+  <li>🚗 The Automotive Industry</li>
   <li>💻 Programming (espeically for 🤖 robots or 🎮 video games)</li>
   <li>🚀 Aerospace</li>
   <li>🌐 Web Development</li>
