@@ -2,16 +2,13 @@
 
 I'm a Mechatronics Engineering student at the University of Waterloo.
 
-I'm currently working on making videos for my projects so I can present them better on my website.
-
 I'm super passionate about:
 
 <ul>
-  <li>⚙️ Mechanical and electrical machines</li>
-  <li>🚗 The Automotive Industry</li>
-  <li>💻 Programming (espeically for 🤖 robots or 🎮 video games)</li>
+  <li>🤖 Robotics</li>
+  <li>🚗 Transportation</li>
+  <li>💻 Coding (espeically for 🎮 video games)</li>
   <li>🚀 Aerospace</li>
-  <li>🌐 Web Development</li>
 </ul>
 
 My favourite projects you'll find here are:
@@ -30,5 +27,5 @@ You can connect with me here:
 <ul>
   <li> <a href="mailto:pdecroos@uwaterloo.ca">✉️ pdecroos@uwaterloo.ca</a> </li>
   <li> <a href="https://www.linkedin.com/in/philip-decroos/">🔗 LinkedIn</a> </li>
-  <li> <a href="https://phildecroos.github.io/portfolio/index.html">🌐 Website</a> </li>
+  <li> <a href="https://phildecroos.github.io">🌐 Website</a> </li>
 </ul>
