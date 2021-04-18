@@ -27,5 +27,5 @@ You can connect with me here:
 <ul>
   <li> <a href="mailto:pdecroos@uwaterloo.ca">✉️ pdecroos@uwaterloo.ca</a> </li>
   <li> <a href="https://www.linkedin.com/in/philip-decroos/">🔗 LinkedIn</a> </li>
-  <li> <a href="https://phildecroos.github.io">🌐 Website</a> </li>
+  <li> <a href="https://phildecroos.com">🌐 Website</a> </li>
 </ul>
