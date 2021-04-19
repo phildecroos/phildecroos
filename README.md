@@ -1,13 +1,14 @@
 ### Hi, I'm Phil 👋
 
-I'm a Mechatronics Engineering student at the University of Waterloo.
+A Mechatronics Engineering student at the University of Waterloo and I'm thrilled that you're here.
 
-I'm super passionate about:
+Some of my interests are:
 
 <ul>
   <li>🤖 Robotics</li>
   <li>🚗 Transportation</li>
   <li>💻 Coding (espeically for 🎮 video games)</li>
+  <li>🌐 Web development</li>
   <li>🚀 Aerospace</li>
 </ul>
 
