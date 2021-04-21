@@ -16,7 +16,7 @@ My favourite projects you'll find here are:
 
 <ul>
   <li><a href="https://github.com/phildecroos/Lunar-Lander/blob/master/Lunar%20Lander%20Game.py">Lunar Lander</a></li>
-  <li>< href="https://github.com/phildecroos/whiteboard">Whiteboard</a></li>
+  <li><a href="https://github.com/phildecroos/whiteboard">Whiteboard</a></li>
   <li><a href="https://github.com/phildecroos/phildecroos.github.io">Portfolio Website</a></li>
 </ul>
 
