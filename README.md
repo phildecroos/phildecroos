@@ -7,7 +7,7 @@ Some of my interests are:
 <ul>
   <li>🤖 Robotics</li>
   <li>🚗 Transportation</li>
-  <li>💻 Coding (espeically for 🎮 video games)</li>
+  <li>💻 Coding (especially for 🎮 video games)</li>
   <li>🌐 Web development</li>
   <li>🚀 Aerospace</li>
 </ul>
