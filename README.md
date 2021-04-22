@@ -20,6 +20,8 @@ My favourite projects you'll find here are:
   <li><a href="https://github.com/phildecroos/phildecroos.github.io">Portfolio Website</a></li>
 </ul>
 
+I also am making videos of my projects that you can check out here: <a href="https://www.youtube.com/channel/UCZ_ytpvFQBsmq4oqE_OsNLg">YouTube</a>
+
 Most of my mechanical/electrical projects don't show up here, but you can check them out here: <a href="https://phildecroos.github.io/mechanical.html">Mechanical</a>
 
 You can connect with me here:
