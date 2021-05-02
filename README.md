@@ -15,9 +15,9 @@ Some of my interests are:
 My favourite projects you'll find here are:
 
 <ul>
+  <li><a href="https://github.com/phildecroos/arcade">Online Arcade</a></li>
   <li><a href="https://github.com/phildecroos/Lunar-Lander/blob/master/Lunar%20Lander%20Game.py">Lunar Lander</a></li>
   <li><a href="https://github.com/phildecroos/whiteboard">Whiteboard</a></li>
-  <li><a href="https://github.com/phildecroos/phildecroos.github.io">Portfolio Website</a></li>
 </ul>
 
 I am also making videos of my projects that you can check out here: <a href="https://www.youtube.com/channel/UCZ_ytpvFQBsmq4oqE_OsNLg">YouTube</a>
